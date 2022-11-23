@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="270"
+   height="180"
+   viewBox="0 0 71.4375 47.625001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="europian union.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9222222"
+     inkscape:cx="131.23574"
+     inkscape:cy="90"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:lockguides="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1329"
+     inkscape:window-height="713"
+     inkscape:window-x="37"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       spacingx="2.6458333"
+       spacingy="2.6458333"
+       enabled="true"
+       visible="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-249.37497)">
+    <rect
+       style="opacity:1;fill:#003399;fill-opacity:1;stroke:#010101;stroke-width:0;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12"
+       width="71.4375"
+       height="47.625"
+       x="2.584555e-06"
+       y="249.37497"
+       inkscape:transform-center-x="44.003328"
+       inkscape:transform-center-y="-0.45270913" />
+    <g
+       id="g4572"
+       transform="translate(13.758333,7.9375012)">
+      <g
+         id="g4565">
+        <g
+           id="g4559">
+          <g
+             id="g4554">
+            <g
+               id="g4550">
+              <path
+                 inkscape:transform-center-y="-0.25265426"
+                 d="m 35.71875,270.54164 0.531361,1.91447 1.984976,-0.0863 -1.656578,1.09696 0.695423,1.86117 -1.555182,-1.23652 -1.555182,1.23652 0.695423,-1.86117 -1.656578,-1.09696 1.984976,0.0863 z"
+                 inkscape:randomized="0"
+                 inkscape:rounded="0"
+                 inkscape:flatsided="false"
+                 sodipodi:arg2="-0.9424778"
+                 sodipodi:arg1="-1.5707963"
+                 sodipodi:r2="0.90400451"
+                 sodipodi:r1="2.6458335"
+                 sodipodi:cy="273.18747"
+                 sodipodi:cx="35.71875"
+                 sodipodi:sides="5"
+                 id="path840"
+                 style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:#010101;stroke-width:0;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+                 sodipodi:type="star" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path840"
+       inkscape:transform-center-y="-0.25265426"
+       id="use842"
+       transform="translate(0,-15.875)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path840"
+       inkscape:transform-center-y="-0.25265426"
+       id="use4547"
+       transform="translate(0,15.875)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4572"
+       id="use4574"
+       transform="translate(-21.695833,5.8208319)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4574"
+       id="use4576"
+       transform="translate(-1.6666668e-8,-27.516666)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4576"
+       id="use4578"
+       transform="translate(15.875)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4578"
+       id="use4580"
+       transform="translate(-23.8125,13.758333)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4580"
+       id="use4582"
+       transform="translate(31.75)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4572"
+       id="use4584"
+       transform="translate(-27.516665)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4584"
+       id="use4586"
+       transform="translate(4.7777777e-7,-15.875)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4586"
+       id="use4588"
+       transform="translate(27.516666)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4572"
+       id="use4592"
+       transform="translate(-5.8208334,5.8208329)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:#010101;stroke-width:0;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4594"
+       width="6.0159289e-14"
+       height="13.229167"
+       x="-10.583334"
+       y="273.18747" />
+  </g>
+</svg>
